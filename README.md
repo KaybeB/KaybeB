@@ -4,6 +4,9 @@
 
 - <b>Azure / Cloud CyberSecurity Projects</b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/KaybeB/Azure-SOC)
+    
+- <b>Web Development Projects</b>
+  - [First simple web page](https://kalebboich.github.io/odin-recipes/)
 
 <h2>📺 Certifications:</h2>
 
