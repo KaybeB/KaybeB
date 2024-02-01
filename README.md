@@ -7,7 +7,7 @@
 
 <h2>📺 Certifications:</h2>
 
-- [Cybersecurity Masterclass]([https://www.youtube.com/watch?v=a83ASGn_V_s](https://screenshot.kajabi.com/generate-pdf?orientation=landscape&url=https%3A%2F%2Fapp.kajabi.com%2Fcertificates%2Ff43fec1e%2Fdownload%3Fscreenshot_token%3DBAhbB0kiE2FwcC5rYWphYmkuY29tBjoGRVRVOiBBY3RpdmVTdXBwb3J0OjpUaW1lV2l0aFpvbmVbCEl1OglUaW1lDfcLH8A%252FQr%252FvCToJem9uZUkiCFVUQwY7AEY6DW5hbm9fbnVtaQLnAzoNbmFub19kZW5pBjoNc3VibWljcm8iB5mQSSIIVVRDBjsAVEAL--4f40baa812d6b611d0db7bf05283d0c64146538c%26screenshot_token_ts%3D1706758775))
+- [Cybersecurity Masterclass](https://github.com/KaybeB/KaybeB/blob/main/cyber-certification.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/kaleb-boich" target="_blank">
